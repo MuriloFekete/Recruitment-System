@@ -6,6 +6,7 @@
 - **Felipe Jorge**
 - **Anderson Watanabe**
 - **Nicolas Izui**
+- **Gustavo Puente**
 
 ## Resumo
 
