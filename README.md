@@ -22,3 +22,6 @@ Esse sistema busca facilitar a função de recrutamento presente nos setores de 
 ## Modelo de Negócio e Tamanho do Mercado
 
 O **Modelo de Negócio** é focado em todas as empresas que tabalham com admissão/demissão/gerenciamento de funcionários, mais especificamente no setor de RH. Trabalharemos com sistema de assinatura, com diferentes planos visando atender melhor cada demanda específica.
+
+## Personas ##
+https://docs.google.com/document/d/1Oh7dlekGy7QAZXgoVzRk4Wh1fDr49nmUM_4pfBcwKhU/edit?usp=sharing
