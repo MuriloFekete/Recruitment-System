@@ -26,3 +26,6 @@ O **Modelo de Negócio** é focado em todas as empresas que tabalham com admiss�
 ## Personas ##
 https://docs.google.com/document/d/1Oh7dlekGy7QAZXgoVzRk4Wh1fDr49nmUM_4pfBcwKhU/edit?usp=sharing
 
+## Jornada do Usuário ##
+https://docs.google.com/document/d/1vrhjX2bmsMwg-FooOiL9FfjCmMMTE7pwZO83OBCB2Wg/edit
+
