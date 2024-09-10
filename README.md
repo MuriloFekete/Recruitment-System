@@ -29,3 +29,7 @@ O **Modelo de Negócio** é focado em todas as empresas que tabalham com admiss�
 ## Jornada do Usuário ##
 [Link para Jornada do usuário](https://docs.google.com/document/d/1vrhjX2bmsMwg-FooOiL9FfjCmMMTE7pwZO83OBCB2Wg/edit)
 
+
+## Protótipo Baixa Fidelidade ##
+https://docs.google.com/document/d/1uwdFpkjvc_Sr5C31v68rRG7acy_T6ujgtFw0cQZzfBc/edit
+
