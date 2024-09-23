@@ -10,7 +10,7 @@
 
 ## Resumo
 
-Esse sistema busca facilitar a função de recrutamento presente nos setores de RH das empresas. Automatizaremos etapas de análise de curriculo, match de competências, busca de vagas e banco de talentos.
+Esse sistema busca facilitar a função de recrutamento presente nos setores de RH das empresas. Facilitaremos a criação de curriculo, inclusão de competências, busca de vagas e vagas cadastradas.
 
 ### Funcionalidades Principais
 
