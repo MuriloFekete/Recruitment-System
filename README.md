@@ -3,21 +3,28 @@
 ## Membros
 
 - **Murilo Fekete**
-- **Felipe Jorge**
 - **Anderson Watanabe**
 - **Nicolas Izui**
 - **Gustavo Puente**
 
 ## Resumo
 
-Esse sistema busca facilitar a função de recrutamento presente nos setores de RH das empresas. Facilitaremos a criação de curriculo, inclusão de competências, busca de vagas e vagas cadastradas.
+Esse sistema busca facilitar a função de recrutamento presente nos setores de RH das empresas e a busca de vagas para os candidatos. Para os candidatos, facilitaremos a criação e aprimoramento do curriculo, receberá recomendações de vagas de acordo com competências e habilidades, recomendações de cursos e vídeos para o aprimoramento dessas habilidades. Para as empresas, facilita a divulgação de anúncios de vagas, falicita o filtro de candidatos a partir de competências e habilidades e será possível gerar pré requisitos como exemplo, fazer algum curso específico da empresa.
 
 ### Funcionalidades Principais
+*Empresas:*
+Markup: * Anúncio de Vagas - Crie e gerencie ofertas de emprego facilmente, com todos os detalhes necessários.
+        * Gestão de Candidatos - Veja e organize currículos recebidos, com filtros para encontrar os candidatos certos.
+        * Comunicação - Envie mensagens e feedbacks para candidatos durante o processo de seleção.
+        * Relatórios - Gere relatórios sobre o status das vagas e candidatos para acompanhar o progresso.
 
-*Cadastro de Vagas*: Crie e gerencie ofertas de emprego facilmente, com todos os detalhes necessários.
-*Gestão de Candidatos*: Veja e organize currículos recebidos, com filtros para encontrar os candidatos certos.
-*Comunicação*: Envie mensagens e feedbacks para candidatos durante o processo de seleção.
-*Relatórios*: Gere relatórios sobre o status das vagas e candidatos para acompanhar o progresso.
+*Candidatos:*
+Markup: * Criação de currículo - Facilidade para a criação de currículo. 
+        * Anúncio de Vagas - Recebe recomendações de vagas de acordo com suas competências e habilidades.
+        * Busca de Vagas - Busca de vagas  mesmo que não possua competências para aplicar na vaga.
+        * Melhoria de habilidades - Recomendações de cursos e vídeos para aprimoramento de habilidades.
+        * Controle de vagas aplicadas - Tela para monitorar as aplicações de vagas feitas.
+
 
 ## Modelo de Negócio e Tamanho do Mercado
 
