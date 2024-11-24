@@ -45,3 +45,6 @@ O **Modelo de Negócio** é focado em todas as empresas que tabalham com admiss�
 ## Diagrama de Modelo Conceitual ##
 [Link para o Diagrama de Modelo Conceitual](https://docs.google.com/document/d/1GordsYTOCGwtQY5ZaBYosNucVsZX-xoDwO1syzufKhg/edit?usp=sharing)
 
+## Diagrama de Modelo Entidade-Relacionamento ##
+[Link para o Diagrama de Entidade-Relacionamento](https://docs.google.com/document/d/1YOduNsh5a7LMXrxSCq9zRL8esB7B6k1Hla2zjLfUoJk/edit?usp=sharing)
+
