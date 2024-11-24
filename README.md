@@ -42,6 +42,6 @@ O **Modelo de Negócio** é focado em todas as empresas que tabalham com admiss�
 ## Youtube ##
 [Link para Apresentação no Youtube](https://www.youtube.com/watch?v=2UfUloKIT3s)
 
-## Diagram de Modelo Conceitual ##
-[Link para Jornada do usuário](https://docs.google.com/document/d/1GordsYTOCGwtQY5ZaBYosNucVsZX-xoDwO1syzufKhg/edit?usp=sharing)
+## Diagrama de Modelo Conceitual ##
+[Link para o Diagrama de Modelo Conceitual](https://docs.google.com/document/d/1GordsYTOCGwtQY5ZaBYosNucVsZX-xoDwO1syzufKhg/edit?usp=sharing)
 
