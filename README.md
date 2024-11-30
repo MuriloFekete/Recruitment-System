@@ -46,5 +46,4 @@ O **Modelo de Negócio** é focado em todas as empresas que tabalham com admiss�
 [Link para o Diagrama de Modelo Conceitual](https://docs.google.com/document/d/1GordsYTOCGwtQY5ZaBYosNucVsZX-xoDwO1syzufKhg/edit?usp=sharing)
 
 ## Diagrama de Modelo Entidade-Relacionamento ##
-[Link para o Diagrama de Entidade-Relacionamento]([https://docs.google.com/document/d/1YOduNsh5a7LMXrxSCq9zRL8esB7B6k1Hla2zjLfUoJk/edit?usp=sharing](https://lucid.app/lucidchart/75ae460a-f08b-435e-8e59-025a86a42b58/edit?viewport_loc=-3094%2C-2812%2C8281%2C2931%2C0_0&invitationId=inv_a6594ee9-8b5a-41ed-9edd-5306bd0939fb)
-
+[Link para o Diagrama de Entidade-Relacionamento]([[https://docs.google.com/document/d/1YOduNsh5a7LMXrxSCq9zRL8esB7B6k1Hla2zjLfUoJk/edit?usp=sharing](https://lucid.app/lucidchart/75ae460a-f08b-435e-8e59-025a86a42b58/edit?viewport_loc=-3094%2C-2812%2C8281%2C2931%2C0_0&invitationId=inv_a6594ee9-8b5a-41ed-9edd-5306bd0939fb])
