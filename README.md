@@ -43,13 +43,13 @@ O **Modelo de Negócio** é focado em todas as empresas que tabalham com admiss�
 [Link para Apresentação no Youtube](https://www.youtube.com/watch?v=2UfUloKIT3s)
 
 ## Diagrama de Modelo Conceitual ##
-[Link para o Diagrama de Modelo Conceitual](https://docs.google.com/document/d/1GordsYTOCGwtQY5ZaBYosNucVsZX-xoDwO1syzufKhg/edit?usp=sharing)
+[Link para o Diagrama de Modelo Conceitual](https://lucid.app/lucidchart/edcb19d9-d477-43da-9caf-df6a8aa450c9/edit?beaconFlowId=08C15FE503342CD7&invitationId=inv_178ac1b7-55e9-4731-9867-6af7727259eb&page=HWEp-vi-RSFO#)
 
 ## Diagrama de Modelo Entidade-Relacionamento ##
-[Link para o Diagrama de Entidade-Relacionamento](https://lucid.app/lucidchart/75ae460a-f08b-435e-8e59-025a86a42b58/edit?viewport_loc=-3094%2C-2812%2C8281%2C2931%2C0_0&invitationId=inv_a6594ee9-8b5a-41ed-9edd-5306bd0939fb)
+[Link para o Diagrama de Entidade-Relacionamento](https://lucid.app/lucidchart/edcb19d9-d477-43da-9caf-df6a8aa450c9/edit?beaconFlowId=08C15FE503342CD7&invitationId=inv_178ac1b7-55e9-4731-9867-6af7727259eb&page=HWEp-vi-RSFO#)
 
 ## Apresentação Protótipo Alta Fidelidade ##
-[Link para Apresentação no Youtube](https://youtu.be/FewLO281Kzw?si=c4LA-me7QgjsPQWo)
+[Link para Apresentação no Youtube](https://www.youtube.com/watch?v=H-g4QVBTZtk&t=1s)
 
 ## AlTA Fidelidade ##
 [ALTA FIDELIDADE CANDIDATO](https://app.flutterflow.io/project/estagiario-p2p1bg?tab=uiBuilder&page=PaginaInicial)
